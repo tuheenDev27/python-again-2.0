@@ -15,3 +15,14 @@ print(package_you_need, number_of_days)
 float_variable = 3.10
 bolean_variable = True
 print(float_variable, bolean_variable)
+
+'''
+write down datatypes and print them and also write down the type of variable
+
+'''
+weight = 70.25
+height = 5.4
+name = "tuhin naha"
+system = 3j
+x = [1,2,3,4,5]
+print(x)
