@@ -31,3 +31,12 @@ print(x)
 
 y = ("school", "college", "university")
 print(type(y), y)
+
+# dist variable
+detail = {"name": "ushnika", "age": 25, "city": "kolkata"}
+print(type(detail), detail)
+
+
+# create a set and print them
+xy = {"raj", "TUHIN", "tuhin", "debdutta"}
+print(type(xy), xy)
