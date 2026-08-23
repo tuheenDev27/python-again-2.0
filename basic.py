@@ -26,3 +26,8 @@ name = "tuhin naha"
 system = 3j
 x = [1,2,3,4,5]
 print(x)
+
+# create tuple and print them'=
+
+y = ("school", "college", "university")
+print(type(y), y)
